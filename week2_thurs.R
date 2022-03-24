@@ -53,3 +53,4 @@ missing_values <- aggr(managers_data, prop = FALSE, numbers = TRUE)
 summary(missing_values)
 missing_values <- aggr(managers_data, prop = TRUE, numbers = TRUE)
 summary(missing_values)
+
